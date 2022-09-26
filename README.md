@@ -1,2 +1,2 @@
 # intercept
-## A MDP-based long-only daily rebalanced stratedgy
+## A MDP-based long-only daily rebalanced strategy
